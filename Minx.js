@@ -7038,7 +7038,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 
-                iiuziBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/6ba2aed566865a068e91f.jpg' }, caption: `*Hi Bro ${m.pushName}*\n\nDonate Me : \n\n🐈 Fampay : https://telegra.ph/file/6ba2aed566865a068e91f.jpg\n🐈 Paytm : https://telegra.ph/file/577bd4f28d90ca2c7f369.jpg\n\nIf You Want To Donate, Talk With The Owner First\nwa.me/918590451659 (Click To Contact)` }, { quoted: m })
+                iiuziBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/453c6f2163fcd32113093.jpg' }, caption: `*Hi Bro ${m.pushName}*\n\nDonate Me : \n\n🐈 YouTube : https://youtu.be/Nhjw12ODzKI\n🐈 GitHub : https://github.com/iiuzi-x0\n\nIf You Want To Donate, Talk With The Owner First\nwa.me/918590451659 (Click To Contact)` }, { quoted: m })
 
             }
 
