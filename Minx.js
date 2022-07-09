@@ -2136,7 +2136,7 @@ Please @${m.mentionedJid[0].split`@`[0]} To Type Accept/Reject`
 
                     if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) return replay(`There Are Still Unfinished Sessions!`)
 
-                    let anu = await fetchJson('https://raw.githubusercontent.com/iiuzi-0x/fungames/main/GuessTheWord.js')
+                    let anu = await fetchJson('https://raw.githubusercontent.com/iiuzi-x0/fungames/main/GuessTheWord.js')
 
                     let result = anu[Math.floor(Math.random() * anu.length)]
 
@@ -2162,7 +2162,7 @@ Please @${m.mentionedJid[0].split`@`[0]} To Type Accept/Reject`
 
                     if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0])) return replay(`There Are Still Unfinished Sessions!`)
 
-                    let anu = await fetchJson('https://raw.githubusercontent.com/iiuzi-0x/fungames/main/GuessTheSentence.js')
+                    let anu = await fetchJson('https://raw.githubusercontent.com/iiuzi-x0/fungames/main/GuessTheSentence.js')
 
                     let result = anu[Math.floor(Math.random() * anu.length)]
 
@@ -7046,7 +7046,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 
             case 'sc': case 'script': {
 
-                reply(`GitHub : https://github.com/iiuzi-0x/Minx-MD\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget To Watch Tutorial`)
+                reply(`GitHub : https://github.com/iiuzi-x0/Minx-MD\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget To Watch Tutorial`)
 
             }
 
