@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/558c21a243c3e793bfd1c.jpg" alt="nz" width="350"/>
 </p>
 
-## Don't forget to give a star Bro Minx Bot Multi Device is an automated whatsapp bot created by <a href="https://github.com/iiuzi-x0" target="_blank">iiuzi</a> using <a target="_blank">iiuzi-x0</a> using a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+ Don't forget to give a star Bro Minx Bot Multi Device is an automated whatsapp bot created by <a href="https://github.com/iiuzi-x0" target="_blank">iiuzi</a> using   <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 ## `Scan QR Code For Session`
