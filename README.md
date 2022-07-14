@@ -4,15 +4,6 @@
 
  Don't forget to give a star Bro Minx Bot Multi Device is an automated whatsapp bot created by <a href="https://github.com/iiuzi-x0" target="_blank">iiuzi</a> using   <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>.
 
-# Setup For Deployment 👇
-
-
-## `SETTINGS`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/iiuzi-x0/Minx-MD/blob/master/config/config.json#L26)
-- CHANGE OWNER NAME [Here](https://github.com/iiuzi-x0/Minx-MD/blob/master/config/config.json#L37)
-- CHANGE BOT NAME [Here](https://github.com/iiuzi-x0/Minx-MD/blob/master/config/config.json#L28)
-
  
 ## `Scan QR Code For Session`
 [![Minx Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@iiuzi-x0/Minx-MD-QR?v=1?outputonly=1&lite=1#index.js)
@@ -28,6 +19,14 @@ heroku/nodejs
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iiuzi-x0/Minx-MD/)
 
 
+# Setup For Deployment 👇
+
+
+## `SETTINGS`
+
+- CHANGE OWNER NUMBER [Here](https://github.com/iiuzi-x0/Minx-MD/blob/master/config/config.json#L26)
+- CHANGE OWNER NAME [Here](https://github.com/iiuzi-x0/Minx-MD/blob/master/config/config.json#L37)
+- CHANGE BOT NAME [Here](https://github.com/iiuzi-x0/Minx-MD/blob/master/config/config.json#L28)
 
 
 
