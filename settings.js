@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918590451659']
-global.premium = ['918590451659']
-global.ownernomer = '918590451659'
+global.owner = ['919895267245']
+global.premium = ['919895267245']
+global.ownernomer = '919895267245'
 global.ownername = '🦄Dream Guy iiuzi'
 global.botname = 'Minx Bot MD'
 global.footer = 'iiuzi Bot Inc.'
